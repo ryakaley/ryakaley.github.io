@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 20px;
+    font-family: 'Times New Roman';
+    background-color: #FFF2D8;
+}
+
+p {
+    font-size: 40px;
+    color: #113946;
+    margin: 25px 0;
+}
+
+h1 {
+    font-size: 55px;
+    color: #BCA37F;
+
+}
+
+div {
+    margin: auto;
+    width: 90%;
+    padding: 50px;
+    background-color: #EAD7BB;
+    box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0, 2);
+} 
+a {
+    text-decoration: none;
+    font-size: 45px;
+    color: #FFF2D8;
+    display: block;
+    margin: 20px 0;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
